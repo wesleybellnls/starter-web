@@ -21,4 +21,4 @@ Please go fork yourself and then Pull for review.
 
 ### Copyright Notice
 
-This isn't a legally binding message. 
+This isn't a legally binding message. You will not break me!
