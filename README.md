@@ -16,6 +16,8 @@ This is a simple web project, deployment can be on any web server.
 
 ## How To Contribute
 
+Please go fork yourself and then Pull for review.
+
 ### Copyright Notice
 
 This isn't a legally binding message. 
