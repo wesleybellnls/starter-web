@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Wesley Bell a@a.com @noX
 
 # THANKS
 
