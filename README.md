@@ -8,13 +8,11 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
-Sample website with plenty of files for demos
+To drive me insane.
 
 ## Deployments
 
 This is a simple web project, deployment can be on any web server.
 
 ## How To Contribute
-
-Be awesome like JT *eyeroll*
  
